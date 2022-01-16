@@ -80,6 +80,11 @@ Here are some ideas to get you started:
 
 :zap: Recent GitHub Activity | Actividad reciente en GitHub | Activitat recent en GitHub
   <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#11](https://github.com/martinezpenya/ED-CFGS-2122/pull/11) in [martinezpenya/ED-CFGS-2122](https://github.com/martinezpenya/ED-CFGS-2122)
+2. 🎉 Merged PR [#9](https://github.com/martinezpenya/ED-CFGS-2122/pull/9) in [martinezpenya/ED-CFGS-2122](https://github.com/martinezpenya/ED-CFGS-2122)
+3. ❌ Reopened PR [#9](https://github.com/martinezpenya/ED-CFGS-2122/pull/9) in [martinezpenya/ED-CFGS-2122](https://github.com/martinezpenya/ED-CFGS-2122)
+4. ❌ Closed PR [#9](https://github.com/martinezpenya/ED-CFGS-2122/pull/9) in [martinezpenya/ED-CFGS-2122](https://github.com/martinezpenya/ED-CFGS-2122)
+5. 🗣 Commented on [#9](https://github.com/martinezpenya/ED-CFGS-2122/issues/9) in [martinezpenya/ED-CFGS-2122](https://github.com/martinezpenya/ED-CFGS-2122)
   <!--END_SECTION:activity-->
 
 :zap: GitHub Stats | Estadísticas de GitHub | Estadístiques de GitHub

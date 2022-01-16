@@ -66,6 +66,11 @@ Here are some ideas to get you started:
 
 ### 📕 Latest Blog Posts | Últimas entradas en mi blog | Últimes entrades al meu blog
 <!-- BLOG-POST-LIST:START -->
+- [Bon Nadal i millor 2022](https://web.martinezpenya.es/2021/12/bon-nadal-i-millor-2022/)
+- [Bon Nadal i millor 2021](https://web.martinezpenya.es/2020/12/bon-nadal-i-millor-2021/)
+- [La casa de l’arbre &lpar;Marjal&rpar;](https://web.martinezpenya.es/2020/07/la-casa-de-larbre-marjal/)
+- [Port de Sollana &lpar;de nit&rpar;](https://web.martinezpenya.es/2020/07/port-de-sollana-de-nit/)
+- [Mirador de l’albufera a Sollana](https://web.martinezpenya.es/2020/07/mirador-de-lalbufera-a-sollana/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...][blog]

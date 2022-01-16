@@ -57,7 +57,7 @@ Here are some ideas to get you started:
 <!-- YOUTUBE:START -->
 <!-- YOUTUBE:END -->
 
-➡️ [more videos...](youtube)
+➡️ [more videos...][youtube]
 
 ---
 
@@ -67,7 +67,7 @@ Here are some ideas to get you started:
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [more blog posts...](blog)
+➡️ [more blog posts...][blog]
 
 ---
 

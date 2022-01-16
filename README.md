@@ -76,7 +76,7 @@ Here are some ideas to get you started:
 
 <details>
   <summary>:zap: GitHub Stats | Estadística de GitHub | Estadístiques de GitHub</summary>
-  <img align="left" alt="martinezpenya stats" src="http://github-readme-stats-martinezpenya.vercel.app?username=martinezpenya&show_icons=true&hide_border=true&theme=dark" />
+  <img align="left" alt="martinezpenya stats" src="http://github-readme-stats-martinezpenya.vercel.app/api?username=martinezpenya&show_icons=true&hide_border=true&theme=dark" />
 </details>
 
 [website]: https://www.martinezpenya.es

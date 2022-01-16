@@ -19,10 +19,11 @@ Here are some ideas to get you started:
 
 ### Connect with me | Contacta conmigo | Contacta amb mi:
 
-[<img align="left" alt="martinezpenya.es" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="martinezpenya | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="martinezpenya | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="martinezpenya | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[<img align="left" alt="web.martinezpenya.es" width="22px" src="https://img.shields.io/uptimerobot/status/m786156750-95228b3f1a1504c055475152?label=blog" />][website]
+[<img align="left" alt="martinezpenya | YouTube" width="22px" src="https://img.shields.io/youtube/channel/views/UCSwQGd8SkZMoq_9_HHsQcyA?style=plastic" />][youtube]
+[<img align="left" alt="martinezpenya | Twitter" width="22px" src="https://img.shields.io/twitter/follow/martinezpenya?style=plastic" />][twitter]
+[<img align="left" alt="martinezpenya | LinkedIn" width="22px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
 <br />
 
 ---

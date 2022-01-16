@@ -69,14 +69,14 @@ Here are some ideas to get you started:
 
 
 <details>
-  <summary>:zap: Recent GitHub Activity</summary> 
+  <summary>:zap: Recent GitHub Activity | Actividad reciente en GitHub | Activitat recent en GitHub</summary> 
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 </details>
 
 <details>
-  <summary>:zap: GitHub Stats</summary>
-  <img align="left" alt="martinezpenya stats" src="https://github-readme-stats.vercel.app/api?username=martinezpenya&show_icons=true&hide_border=true&theme=dark" />
+  <summary>:zap: GitHub Stats | Estadística de GitHub | Estadístiques de GitHub</summary>
+  <img align="left" alt="martinezpenya stats" src="http://github-readme-stats-martinezpenya.vercel.app?username=martinezpenya&show_icons=true&hide_border=true&theme=dark" />
 </details>
 
 [website]: https://www.martinezpenya.es

@@ -78,21 +78,12 @@ Here are some ideas to get you started:
 ---
 
 
-<details>
-  <summary>:zap: Recent GitHub Activity | Actividad reciente en GitHub | Activitat recent en GitHub</summary> 
+:zap: Recent GitHub Activity | Actividad reciente en GitHub | Activitat recent en GitHub
   <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#11](https://github.com/martinezpenya/ED-CFGS-2122/pull/11) in [martinezpenya/ED-CFGS-2122](https://github.com/martinezpenya/ED-CFGS-2122)
-2. 🎉 Merged PR [#9](https://github.com/martinezpenya/ED-CFGS-2122/pull/9) in [martinezpenya/ED-CFGS-2122](https://github.com/martinezpenya/ED-CFGS-2122)
-3. ❌ Reopened PR [#9](https://github.com/martinezpenya/ED-CFGS-2122/pull/9) in [martinezpenya/ED-CFGS-2122](https://github.com/martinezpenya/ED-CFGS-2122)
-4. ❌ Closed PR [#9](https://github.com/martinezpenya/ED-CFGS-2122/pull/9) in [martinezpenya/ED-CFGS-2122](https://github.com/martinezpenya/ED-CFGS-2122)
-5. 🗣 Commented on [#9](https://github.com/martinezpenya/ED-CFGS-2122/issues/9) in [martinezpenya/ED-CFGS-2122](https://github.com/martinezpenya/ED-CFGS-2122)
   <!--END_SECTION:activity-->
-</details>
 
-<details>
-  <summary>:zap: GitHub Stats | Estadística de GitHub | Estadístiques de GitHub</summary>
-  <img align="left" alt="martinezpenya stats" src="http://github-readme-stats-martinezpenya.vercel.app/api?username=martinezpenya&show_icons=true&hide_border=true&theme=dark" />
-</details>
+:zap: GitHub Stats | Estadísticas de GitHub | Estadístiques de GitHub
+<img align="left" alt="martinezpenya stats" src="http://github-readme-stats-martinezpenya.vercel.app/api?username=martinezpenya&show_icons=true&hide_border=true&theme=dark" />
 
 [website]: https://www.martinezpenya.es
 [blog]: http://web.martinezpenya.es

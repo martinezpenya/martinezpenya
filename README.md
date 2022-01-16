@@ -1,8 +1,7 @@
 ### 🇬🇧 Hi there 👋 I'm David Martinez Peña and this is my github profile.
 ### 🇪🇦 Hola 👋 Soy David Martinez Peña y este es mi perfil de github.
-### 🏴󠁥󠁳󠁶󠁣󠁿 Hola 👋 Soc David Martinez Peña i este és el meu perfil de github.
+### <img align="left" width="17.5" height="17.5" alt="web.martinezpenya.es" src="https://es.wikipedia.org/wiki/Bandera_de_la_Comunidad_Valenciana#/media/Archivo:Senyera_Valenciana_simplificada_2x3.svg" /> Hola 👋 Soc David Martinez Peña i este és el meu perfil de github.
 
-<!--
 **martinezpenya/martinezpenya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:

@@ -58,11 +58,11 @@ Here are some ideas to get you started:
 
 :zap: Recent GitHub Activity | Actividad reciente en GitHub | Activitat recent en GitHub
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#530](https://github.com/nextcloud/viewer/issues/530) in [nextcloud/viewer](https://github.com/nextcloud/viewer)
-2. 💪 Opened PR [#10](https://github.com/mermaidjs/mermaidjs.github.io/pull/10) in [mermaidjs/mermaidjs.github.io](https://github.com/mermaidjs/mermaidjs.github.io)
-3. 🗣 Commented on [#5044](https://github.com/typora/typora-issues/issues/5044) in [typora/typora-issues](https://github.com/typora/typora-issues)
-4. 🗣 Commented on [#5044](https://github.com/typora/typora-issues/issues/5044) in [typora/typora-issues](https://github.com/typora/typora-issues)
-5. ❗️ Opened issue [#5044](https://github.com/typora/typora-issues/issues/5044) in [typora/typora-issues](https://github.com/typora/typora-issues)
+1. 🎉 Merged PR [#13](https://github.com/martinezpenya/ED-CFGS-2122/pull/13) in [martinezpenya/ED-CFGS-2122](https://github.com/martinezpenya/ED-CFGS-2122)
+2. 🎉 Merged PR [#12](https://github.com/martinezpenya/ED-CFGS-2122/pull/12) in [martinezpenya/ED-CFGS-2122](https://github.com/martinezpenya/ED-CFGS-2122)
+3. 🗣 Commented on [#530](https://github.com/nextcloud/viewer/issues/530) in [nextcloud/viewer](https://github.com/nextcloud/viewer)
+4. 💪 Opened PR [#10](https://github.com/mermaidjs/mermaidjs.github.io/pull/10) in [mermaidjs/mermaidjs.github.io](https://github.com/mermaidjs/mermaidjs.github.io)
+5. 🗣 Commented on [#5044](https://github.com/typora/typora-issues/issues/5044) in [typora/typora-issues](https://github.com/typora/typora-issues)
   <!--END_SECTION:activity-->
 
 :zap: GitHub Stats | Estadísticas de GitHub | Estadístiques de GitHub

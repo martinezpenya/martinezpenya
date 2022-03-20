@@ -59,10 +59,10 @@ Here are some ideas to get you started:
 :zap: Recent GitHub Activity | Actividad reciente en GitHub | Activitat recent en GitHub
   <!--START_SECTION:activity-->
 1. 🗣 Commented on [#16](https://github.com/pilotak/homeassistant-clientraw/issues/16) in [pilotak/homeassistant-clientraw](https://github.com/pilotak/homeassistant-clientraw)
-2. 💪 Opened PR [#16](https://github.com/pilotak/homeassistant-clientraw/pull/16) in [pilotak/homeassistant-clientraw](https://github.com/pilotak/homeassistant-clientraw)
-3. 🎉 Merged PR [#13](https://github.com/martinezpenya/ED-CFGS-2122/pull/13) in [martinezpenya/ED-CFGS-2122](https://github.com/martinezpenya/ED-CFGS-2122)
-4. 🎉 Merged PR [#12](https://github.com/martinezpenya/ED-CFGS-2122/pull/12) in [martinezpenya/ED-CFGS-2122](https://github.com/martinezpenya/ED-CFGS-2122)
-5. 🗣 Commented on [#530](https://github.com/nextcloud/viewer/issues/530) in [nextcloud/viewer](https://github.com/nextcloud/viewer)
+2. 🗣 Commented on [#16](https://github.com/pilotak/homeassistant-clientraw/issues/16) in [pilotak/homeassistant-clientraw](https://github.com/pilotak/homeassistant-clientraw)
+3. 💪 Opened PR [#16](https://github.com/pilotak/homeassistant-clientraw/pull/16) in [pilotak/homeassistant-clientraw](https://github.com/pilotak/homeassistant-clientraw)
+4. 🎉 Merged PR [#13](https://github.com/martinezpenya/ED-CFGS-2122/pull/13) in [martinezpenya/ED-CFGS-2122](https://github.com/martinezpenya/ED-CFGS-2122)
+5. 🎉 Merged PR [#12](https://github.com/martinezpenya/ED-CFGS-2122/pull/12) in [martinezpenya/ED-CFGS-2122](https://github.com/martinezpenya/ED-CFGS-2122)
   <!--END_SECTION:activity-->
 
 :zap: GitHub Stats | Estadísticas de GitHub | Estadístiques de GitHub

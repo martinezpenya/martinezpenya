@@ -61,8 +61,8 @@ Here are some ideas to get you started:
 1. 🗣 Commented on [#16](https://github.com/pilotak/homeassistant-clientraw/issues/16) in [pilotak/homeassistant-clientraw](https://github.com/pilotak/homeassistant-clientraw)
 2. 🗣 Commented on [#16](https://github.com/pilotak/homeassistant-clientraw/issues/16) in [pilotak/homeassistant-clientraw](https://github.com/pilotak/homeassistant-clientraw)
 3. 🗣 Commented on [#16](https://github.com/pilotak/homeassistant-clientraw/issues/16) in [pilotak/homeassistant-clientraw](https://github.com/pilotak/homeassistant-clientraw)
-4. 💪 Opened PR [#16](https://github.com/pilotak/homeassistant-clientraw/pull/16) in [pilotak/homeassistant-clientraw](https://github.com/pilotak/homeassistant-clientraw)
-5. 🎉 Merged PR [#13](https://github.com/martinezpenya/ED-CFGS-2122/pull/13) in [martinezpenya/ED-CFGS-2122](https://github.com/martinezpenya/ED-CFGS-2122)
+4. 🗣 Commented on [#16](https://github.com/pilotak/homeassistant-clientraw/issues/16) in [pilotak/homeassistant-clientraw](https://github.com/pilotak/homeassistant-clientraw)
+5. 💪 Opened PR [#16](https://github.com/pilotak/homeassistant-clientraw/pull/16) in [pilotak/homeassistant-clientraw](https://github.com/pilotak/homeassistant-clientraw)
   <!--END_SECTION:activity-->
 
 :zap: GitHub Stats | Estadísticas de GitHub | Estadístiques de GitHub

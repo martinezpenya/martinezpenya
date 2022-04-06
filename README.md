@@ -58,11 +58,11 @@ Here are some ideas to get you started:
 
 :zap: Recent GitHub Activity | Actividad reciente en GitHub | Activitat recent en GitHub
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#16](https://github.com/pilotak/homeassistant-clientraw/issues/16) in [pilotak/homeassistant-clientraw](https://github.com/pilotak/homeassistant-clientraw)
-2. 🗣 Commented on [#16](https://github.com/pilotak/homeassistant-clientraw/issues/16) in [pilotak/homeassistant-clientraw](https://github.com/pilotak/homeassistant-clientraw)
+1. 🎉 Merged PR [#4](https://github.com/martinezpenya/PRG-CFGS-2122/pull/4) in [martinezpenya/PRG-CFGS-2122](https://github.com/martinezpenya/PRG-CFGS-2122)
+2. 🎉 Merged PR [#3](https://github.com/martinezpenya/PRG-CFGS-2122/pull/3) in [martinezpenya/PRG-CFGS-2122](https://github.com/martinezpenya/PRG-CFGS-2122)
 3. 🗣 Commented on [#16](https://github.com/pilotak/homeassistant-clientraw/issues/16) in [pilotak/homeassistant-clientraw](https://github.com/pilotak/homeassistant-clientraw)
 4. 🗣 Commented on [#16](https://github.com/pilotak/homeassistant-clientraw/issues/16) in [pilotak/homeassistant-clientraw](https://github.com/pilotak/homeassistant-clientraw)
-5. 💪 Opened PR [#16](https://github.com/pilotak/homeassistant-clientraw/pull/16) in [pilotak/homeassistant-clientraw](https://github.com/pilotak/homeassistant-clientraw)
+5. 🗣 Commented on [#16](https://github.com/pilotak/homeassistant-clientraw/issues/16) in [pilotak/homeassistant-clientraw](https://github.com/pilotak/homeassistant-clientraw)
   <!--END_SECTION:activity-->
 
 :zap: GitHub Stats | Estadísticas de GitHub | Estadístiques de GitHub

@@ -58,11 +58,11 @@ Here are some ideas to get you started:
 
 :zap: Recent GitHub Activity | Actividad reciente en GitHub | Activitat recent en GitHub
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#55888](https://github.com/home-assistant/core/issues/55888) in [home-assistant/core](https://github.com/home-assistant/core)
-2. 🎉 Merged PR [#4](https://github.com/martinezpenya/PRG-CFGS-2122/pull/4) in [martinezpenya/PRG-CFGS-2122](https://github.com/martinezpenya/PRG-CFGS-2122)
-3. 🎉 Merged PR [#3](https://github.com/martinezpenya/PRG-CFGS-2122/pull/3) in [martinezpenya/PRG-CFGS-2122](https://github.com/martinezpenya/PRG-CFGS-2122)
-4. 🗣 Commented on [#16](https://github.com/pilotak/homeassistant-clientraw/issues/16) in [pilotak/homeassistant-clientraw](https://github.com/pilotak/homeassistant-clientraw)
-5. 🗣 Commented on [#16](https://github.com/pilotak/homeassistant-clientraw/issues/16) in [pilotak/homeassistant-clientraw](https://github.com/pilotak/homeassistant-clientraw)
+1. ❌ Closed PR [#15](https://github.com/martinezpenya/ED-CFGS-2122/pull/15) in [martinezpenya/ED-CFGS-2122](https://github.com/martinezpenya/ED-CFGS-2122)
+2. 🗣 Commented on [#15](https://github.com/martinezpenya/ED-CFGS-2122/issues/15) in [martinezpenya/ED-CFGS-2122](https://github.com/martinezpenya/ED-CFGS-2122)
+3. 🗣 Commented on [#55888](https://github.com/home-assistant/core/issues/55888) in [home-assistant/core](https://github.com/home-assistant/core)
+4. 🎉 Merged PR [#4](https://github.com/martinezpenya/PRG-CFGS-2122/pull/4) in [martinezpenya/PRG-CFGS-2122](https://github.com/martinezpenya/PRG-CFGS-2122)
+5. 🎉 Merged PR [#3](https://github.com/martinezpenya/PRG-CFGS-2122/pull/3) in [martinezpenya/PRG-CFGS-2122](https://github.com/martinezpenya/PRG-CFGS-2122)
   <!--END_SECTION:activity-->
 
 :zap: GitHub Stats | Estadísticas de GitHub | Estadístiques de GitHub

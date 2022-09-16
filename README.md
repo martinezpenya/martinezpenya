@@ -58,8 +58,8 @@ Here are some ideas to get you started:
 
 :zap: Recent GitHub Activity | Actividad reciente en GitHub | Activitat recent en GitHub
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1321](https://github.com/ValveSoftware/Proton/issues/1321) in [ValveSoftware/Proton](https://github.com/ValveSoftware/Proton)
-2. 🎉 Merged PR [#18](https://github.com/martinezpenya/ED-CFGS-2122/pull/18) in [martinezpenya/ED-CFGS-2122](https://github.com/martinezpenya/ED-CFGS-2122)
+1. 💪 Opened PR [#1](https://github.com/arturoblasco/PROG22/pull/1) in [arturoblasco/PROG22](https://github.com/arturoblasco/PROG22)
+2. 🗣 Commented on [#1321](https://github.com/ValveSoftware/Proton/issues/1321) in [ValveSoftware/Proton](https://github.com/ValveSoftware/Proton)
 3. 🗣 Commented on [#18](https://github.com/martinezpenya/ED-CFGS-2122/issues/18) in [martinezpenya/ED-CFGS-2122](https://github.com/martinezpenya/ED-CFGS-2122)
 4. 💪 Opened PR [#18](https://github.com/martinezpenya/ED-CFGS-2122/pull/18) in [martinezpenya/ED-CFGS-2122](https://github.com/martinezpenya/ED-CFGS-2122)
 5. 🎉 Merged PR [#16](https://github.com/martinezpenya/ED-CFGS-2122/pull/16) in [martinezpenya/ED-CFGS-2122](https://github.com/martinezpenya/ED-CFGS-2122)

@@ -58,11 +58,11 @@ Here are some ideas to get you started:
 
 :zap: Recent GitHub Activity | Actividad reciente en GitHub | Activitat recent en GitHub
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5421](https://github.com/typora/typora-issues/issues/5421) in [typora/typora-issues](https://github.com/typora/typora-issues)
-2. 🗣 Commented on [#5405](https://github.com/typora/typora-issues/issues/5405) in [typora/typora-issues](https://github.com/typora/typora-issues)
-3. 🗣 Commented on [#5405](https://github.com/typora/typora-issues/issues/5405) in [typora/typora-issues](https://github.com/typora/typora-issues)
-4. 🗣 Commented on [#5421](https://github.com/typora/typora-issues/issues/5421) in [typora/typora-issues](https://github.com/typora/typora-issues)
-5. 💪 Opened PR [#1](https://github.com/arturoblasco/PROG22/pull/1) in [arturoblasco/PROG22](https://github.com/arturoblasco/PROG22)
+1. 🗣 Commented on [#20](https://github.com/martinezpenya/ED-CFGS-2122/issues/20) in [martinezpenya/ED-CFGS-2122](https://github.com/martinezpenya/ED-CFGS-2122)
+2. 🎉 Merged PR [#20](https://github.com/martinezpenya/ED-CFGS-2122/pull/20) in [martinezpenya/ED-CFGS-2122](https://github.com/martinezpenya/ED-CFGS-2122)
+3. 🗣 Commented on [#5421](https://github.com/typora/typora-issues/issues/5421) in [typora/typora-issues](https://github.com/typora/typora-issues)
+4. 🗣 Commented on [#5405](https://github.com/typora/typora-issues/issues/5405) in [typora/typora-issues](https://github.com/typora/typora-issues)
+5. 🗣 Commented on [#5405](https://github.com/typora/typora-issues/issues/5405) in [typora/typora-issues](https://github.com/typora/typora-issues)
   <!--END_SECTION:activity-->
 
 :zap: GitHub Stats | Estadísticas de GitHub | Estadístiques de GitHub

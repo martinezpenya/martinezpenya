@@ -58,11 +58,11 @@ Here are some ideas to get you started:
 
 :zap: Recent GitHub Activity | Actividad reciente en GitHub | Activitat recent en GitHub
   <!--START_SECTION:activity-->
-1. ❌ Closed PR [#7](https://github.com/martinezpenya/PSP-CFGS-2223/pull/7) in [martinezpenya/PSP-CFGS-2223](https://github.com/martinezpenya/PSP-CFGS-2223)
-2. 🗣 Commented on [#7](https://github.com/martinezpenya/PSP-CFGS-2223/issues/7) in [martinezpenya/PSP-CFGS-2223](https://github.com/martinezpenya/PSP-CFGS-2223)
-3. 🎉 Merged PR [#1](https://github.com/martinezpenya/PSP-CFGS-2223/pull/1) in [martinezpenya/PSP-CFGS-2223](https://github.com/martinezpenya/PSP-CFGS-2223)
-4. 🎉 Merged PR [#6](https://github.com/martinezpenya/PSP-CFGS-2223/pull/6) in [martinezpenya/PSP-CFGS-2223](https://github.com/martinezpenya/PSP-CFGS-2223)
-5. 🎉 Merged PR [#5](https://github.com/martinezpenya/PSP-CFGS-2223/pull/5) in [martinezpenya/PSP-CFGS-2223](https://github.com/martinezpenya/PSP-CFGS-2223)
+1. 💪 Opened PR [#50](https://github.com/gotzl/accservermanager/pull/50) in [gotzl/accservermanager](https://github.com/gotzl/accservermanager)
+2. ❌ Closed PR [#7](https://github.com/martinezpenya/PSP-CFGS-2223/pull/7) in [martinezpenya/PSP-CFGS-2223](https://github.com/martinezpenya/PSP-CFGS-2223)
+3. 🗣 Commented on [#7](https://github.com/martinezpenya/PSP-CFGS-2223/issues/7) in [martinezpenya/PSP-CFGS-2223](https://github.com/martinezpenya/PSP-CFGS-2223)
+4. 🎉 Merged PR [#1](https://github.com/martinezpenya/PSP-CFGS-2223/pull/1) in [martinezpenya/PSP-CFGS-2223](https://github.com/martinezpenya/PSP-CFGS-2223)
+5. 🎉 Merged PR [#6](https://github.com/martinezpenya/PSP-CFGS-2223/pull/6) in [martinezpenya/PSP-CFGS-2223](https://github.com/martinezpenya/PSP-CFGS-2223)
   <!--END_SECTION:activity-->
 
 :zap: GitHub Stats | Estadísticas de GitHub | Estadístiques de GitHub

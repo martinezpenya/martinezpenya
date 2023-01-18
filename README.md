@@ -58,11 +58,11 @@ Here are some ideas to get you started:
 
 :zap: Recent GitHub Activity | Actividad reciente en GitHub | Activitat recent en GitHub
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#13799](https://github.com/glpi-project/glpi/issues/13799) in [glpi-project/glpi](https://github.com/glpi-project/glpi)
-2. 🗣 Commented on [#13799](https://github.com/glpi-project/glpi/issues/13799) in [glpi-project/glpi](https://github.com/glpi-project/glpi)
-3. ❗️ Opened issue [#13799](https://github.com/glpi-project/glpi/issues/13799) in [glpi-project/glpi](https://github.com/glpi-project/glpi)
-4. 🗣 Commented on [#40](https://github.com/edgardmessias/glpi-singlesignon/issues/40) in [edgardmessias/glpi-singlesignon](https://github.com/edgardmessias/glpi-singlesignon)
-5. 🗣 Commented on [#40](https://github.com/edgardmessias/glpi-singlesignon/issues/40) in [edgardmessias/glpi-singlesignon](https://github.com/edgardmessias/glpi-singlesignon)
+1. 🎉 Merged PR [#9](https://github.com/martinezpenya/PSP-CFGS-2223/pull/9) in [martinezpenya/PSP-CFGS-2223](https://github.com/martinezpenya/PSP-CFGS-2223)
+2. 🎉 Merged PR [#8](https://github.com/martinezpenya/PSP-CFGS-2223/pull/8) in [martinezpenya/PSP-CFGS-2223](https://github.com/martinezpenya/PSP-CFGS-2223)
+3. 🗣 Commented on [#13799](https://github.com/glpi-project/glpi/issues/13799) in [glpi-project/glpi](https://github.com/glpi-project/glpi)
+4. 🗣 Commented on [#13799](https://github.com/glpi-project/glpi/issues/13799) in [glpi-project/glpi](https://github.com/glpi-project/glpi)
+5. ❗️ Opened issue [#13799](https://github.com/glpi-project/glpi/issues/13799) in [glpi-project/glpi](https://github.com/glpi-project/glpi)
   <!--END_SECTION:activity-->
 
 :zap: GitHub Stats | Estadísticas de GitHub | Estadístiques de GitHub

@@ -31,11 +31,11 @@ Here are some ideas to get you started:
 ### 📺 Latest YouTube Videos | Últimos videos de YouTube | Últims videos de YouTube
 
 <!-- YOUTUBE:START -->
+- [Banda Jove Agrupació Musical L&#39;Artística de Carlet - XX Campanya concerts d&#39;intercanvis musicals &#39;23](https://www.youtube.com/watch?v=ZQ6mKB3_cN4)
+- [Homenatge a Enrique Forés](https://www.youtube.com/watch?v=-rP4m4BAiWc)
+- [43 Festival de Bandes de Carlet - Banda Simfònica de l&#39;Agrupació Musical l&#39;Artística de Carlet](https://www.youtube.com/watch?v=knVKkuDzfzY)
 - [Gema Hervàs de Dios Musa 2023 - A.M. L&#39;Artística de Carlet](https://www.youtube.com/watch?v=DmKR9k1BdR0)
 - [Concert de Primavera 2023 - Banda Simfònica de l&#39;Agrupació Musical l&#39;Artística de Carlet](https://www.youtube.com/watch?v=0euBFN6ua8Q)
-- [Concert en honor a Santa Cecilia 2022 - Banda Simfònica de l&#39;Agrupació Musical l&#39;Artística de Carlet](https://www.youtube.com/watch?v=8A1ALfNC8pI)
-- [Concert didàctic de la Banda Juvenil de la Comarca de la Ribera Alta de la FSMCV](https://www.youtube.com/watch?v=PDvusy2BoRE)
-- [42 Festival de Bandes de Carlet - Banda Simfònica de l&#39;Agrupació Musical l&#39;Artística de Carlet](https://www.youtube.com/watch?v=MNxhWKuHeCE)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]

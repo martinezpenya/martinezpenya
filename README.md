@@ -60,14 +60,14 @@ Here are some ideas to get you started:
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#23](https://github.com/dusty-nv/jetson-voice/pull/23) in [dusty-nv/jetson-voice](https://github.com/dusty-nv/jetson-voice)<br>
-2. ⬆️ Pushed 1 commit(s) to [martinezpenya/jetson-voice](https://github.com/martinezpenya/jetson-voice)<br>
-3. 🔱 Forked [martinezpenya/jetson-voice](https://github.com/martinezpenya/jetson-voice) from [dusty-nv/jetson-voice](https://github.com/dusty-nv/jetson-voice)<br>
-4. ⬆️ Pushed 1 commit(s) to [martinezpenya/PRG-CFGS-2324](https://github.com/martinezpenya/PRG-CFGS-2324)<br>
-5. ⬆️ Pushed 1 commit(s) to [martinezpenya/PRG-CFGS-2324](https://github.com/martinezpenya/PRG-CFGS-2324)<br>
+1. ⬆️ Pushed 1 commit(s) to [martinezpenya/jetson-voice](https://github.com/martinezpenya/jetson-voice)<br>
+2. 💪 Opened PR [#24](https://github.com/dusty-nv/jetson-voice/pull/24) in [dusty-nv/jetson-voice](https://github.com/dusty-nv/jetson-voice)<br>
+3. ⬆️ Pushed 1 commit(s) to [martinezpenya/jetson-voice](https://github.com/martinezpenya/jetson-voice)<br>
+4. ⬆️ Pushed 1 commit(s) to [martinezpenya/MIA-IABD-2324](https://github.com/martinezpenya/MIA-IABD-2324)<br>
+5. 💪 Opened PR [#23](https://github.com/dusty-nv/jetson-voice/pull/23) in [dusty-nv/jetson-voice](https://github.com/dusty-nv/jetson-voice)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, February 9th, 2024, 12:12:45 PM
+Last Updated: Friday, February 9th, 2024, 12:42:30 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 :zap: GitHub Stats | Estadísticas de GitHub | Estadístiques de GitHub

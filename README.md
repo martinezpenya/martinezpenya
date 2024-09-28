@@ -60,14 +60,14 @@ Here are some ideas to get you started:
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [martinezpenya/MIA-IABD-2425](https://github.com/martinezpenya/MIA-IABD-2425)<br>
-2. 💬 Commented on [#27](https://github.com/martinezpenya/ED-CFGS-2122/pull/27#issuecomment-2379183416) in [martinezpenya/ED-CFGS-2122](https://github.com/martinezpenya/ED-CFGS-2122)<br>
-3. ❌ Closed PR [#27](https://github.com/martinezpenya/ED-CFGS-2122/pull/27) in [martinezpenya/ED-CFGS-2122](https://github.com/martinezpenya/ED-CFGS-2122)<br>
-4. ⬆️ Pushed 1 commit(s) to [martinezpenya/PRG-CFGS-2425](https://github.com/martinezpenya/PRG-CFGS-2425)<br>
-5. ⬆️ Pushed 1 commit(s) to [martinezpenya/PRG-CFGS-2425](https://github.com/martinezpenya/PRG-CFGS-2425)<br>
+1. ⬆️ Pushed 1 commit(s) to [martinezpenya/MIA-IABD-2425](https://github.com/martinezpenya/MIA-IABD-2425)<br>
+2. ⬆️ Pushed 1 commit(s) to [martinezpenya/MIA-IABD-2425](https://github.com/martinezpenya/MIA-IABD-2425)<br>
+3. 📔 Created new repository [martinezpenya/MIA-IABD-2425](https://github.com/martinezpenya/MIA-IABD-2425)<br>
+4. 💬 Commented on [#27](https://github.com/martinezpenya/ED-CFGS-2122/pull/27#issuecomment-2379183416) in [martinezpenya/ED-CFGS-2122](https://github.com/martinezpenya/ED-CFGS-2122)<br>
+5. ❌ Closed PR [#27](https://github.com/martinezpenya/ED-CFGS-2122/pull/27) in [martinezpenya/ED-CFGS-2122](https://github.com/martinezpenya/ED-CFGS-2122)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, September 28th, 2024, 6:38:45 PM
+Last Updated: Saturday, September 28th, 2024, 7:07:31 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 :zap: GitHub Stats | Estadísticas de GitHub | Estadístiques de GitHub

@@ -1,6 +1,6 @@
-### 🇬🇧 Hi there 👋 I'm David Martinez Peña and this is my Github profile.
-### 🇪🇦 Hola 👋 Soy David Martinez Peña y este es mi perfil de Github.
-### <img width="18" height="12" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Senyera_Valenciana_simplificada_2x3.svg/1280px-Senyera_Valenciana_simplificada_2x3.svg.png" /> Hola 👋 Soc David Martinez Peña i este és el meu perfil de Github.
+### 🇬🇧 Hi there 👋 I'm David Martinez Peña and this is my GitHub profile.
+### 🇪🇦 Hola 👋 Soy David Martinez Peña y este es mi perfil de GitHub.
+### <img width="18" height="12" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Senyera_Valenciana_simplificada_2x3.svg/1280px-Senyera_Valenciana_simplificada_2x3.svg.png" /> Hola 👋 Soc David Martinez Peña i este és el meu perfil de GitHub.
 
 <!--
 **martinezpenya/martinezpenya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

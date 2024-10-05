@@ -60,14 +60,14 @@ Here are some ideas to get you started:
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 2 commit(s) to [martinezpenya/MIA-IABD-2425](https://github.com/martinezpenya/MIA-IABD-2425)<br>
-2. 🎉 Merged PR [#1](https://github.com/martinezpenya/MIA-IABD-2425/pull/1) in [martinezpenya/MIA-IABD-2425](https://github.com/martinezpenya/MIA-IABD-2425)<br>
-3. ⬆️ Pushed 3 commit(s) to [martinezpenya/martinezpenya](https://github.com/martinezpenya/martinezpenya)<br>
-4. 🎉 Merged PR [#1](https://github.com/martinezpenya/martinezpenya/pull/1) in [martinezpenya/martinezpenya](https://github.com/martinezpenya/martinezpenya)<br>
-5. 💬 Commented on [#4](https://github.com/martinezpenya/PRG-CFGS-2425/pull/4#issuecomment-2392390592) in [martinezpenya/PRG-CFGS-2425](https://github.com/martinezpenya/PRG-CFGS-2425)<br>
+1. ⬆️ Pushed 2 commit(s) to [martinezpenya/PRG-CFGS-2425](https://github.com/martinezpenya/PRG-CFGS-2425)<br>
+2. 🎉 Merged PR [#5](https://github.com/martinezpenya/PRG-CFGS-2425/pull/5) in [martinezpenya/PRG-CFGS-2425](https://github.com/martinezpenya/PRG-CFGS-2425)<br>
+3. ⬆️ Pushed 2 commit(s) to [martinezpenya/MIA-IABD-2425](https://github.com/martinezpenya/MIA-IABD-2425)<br>
+4. 🎉 Merged PR [#2](https://github.com/martinezpenya/MIA-IABD-2425/pull/2) in [martinezpenya/MIA-IABD-2425](https://github.com/martinezpenya/MIA-IABD-2425)<br>
+5. ⬆️ Pushed 2 commit(s) to [martinezpenya/MIA-IABD-2425](https://github.com/martinezpenya/MIA-IABD-2425)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, October 4th, 2024, 11:32:30 PM
+Last Updated: Saturday, October 5th, 2024, 12:45:31 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 :zap: GitHub Stats | Estadísticas de GitHub | Estadístiques de GitHub

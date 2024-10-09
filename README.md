@@ -60,14 +60,14 @@ Here are some ideas to get you started:
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 <!--RECENT_ACTIVITY:start-->
-1. ❌ Closed PR [#10](https://github.com/martinezpenya/PRG-CFGS-2425/pull/10) in [martinezpenya/PRG-CFGS-2425](https://github.com/martinezpenya/PRG-CFGS-2425)<br>
-2. 💬 Commented on [#10](https://github.com/martinezpenya/PRG-CFGS-2425/pull/10#issuecomment-2395587379) in [martinezpenya/PRG-CFGS-2425](https://github.com/martinezpenya/PRG-CFGS-2425)<br>
-3. 💬 Commented on [#8](https://github.com/martinezpenya/PRG-CFGS-2425/pull/8#issuecomment-2395517614) in [martinezpenya/PRG-CFGS-2425](https://github.com/martinezpenya/PRG-CFGS-2425)<br>
-4. ❌ Closed PR [#8](https://github.com/martinezpenya/PRG-CFGS-2425/pull/8) in [martinezpenya/PRG-CFGS-2425](https://github.com/martinezpenya/PRG-CFGS-2425)<br>
-5. ⬆️ Pushed 2 commit(s) to [martinezpenya/PRG-CFGS-2425](https://github.com/martinezpenya/PRG-CFGS-2425)<br>
+1. ⬆️ Pushed 1 commit(s) to [martinezpenya/MIA-IABD-2425](https://github.com/martinezpenya/MIA-IABD-2425)<br>
+2. ⬆️ Pushed 2 commit(s) to [martinezpenya/PRG-CFGS-2425](https://github.com/martinezpenya/PRG-CFGS-2425)<br>
+3. ⬆️ Pushed 2 commit(s) to [martinezpenya/PRG-CFGS-2425](https://github.com/martinezpenya/PRG-CFGS-2425)<br>
+4. 🎉 Merged PR [#11](https://github.com/martinezpenya/PRG-CFGS-2425/pull/11) in [martinezpenya/PRG-CFGS-2425](https://github.com/martinezpenya/PRG-CFGS-2425)<br>
+5. ❌ Closed PR [#10](https://github.com/martinezpenya/PRG-CFGS-2425/pull/10) in [martinezpenya/PRG-CFGS-2425](https://github.com/martinezpenya/PRG-CFGS-2425)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, October 9th, 2024, 12:45:43 AM
+Last Updated: Wednesday, October 9th, 2024, 2:11:17 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 :zap: GitHub Stats | Estadísticas de GitHub | Estadístiques de GitHub

@@ -60,14 +60,14 @@ Here are some ideas to get you started:
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [martinezpenya/PRG-CFGS-2425](https://github.com/martinezpenya/PRG-CFGS-2425)<br>
+1. ❗️ Opened issue [#162](https://github.com/orzih/mkdocs-with-pdf/issues/162) in [orzih/mkdocs-with-pdf](https://github.com/orzih/mkdocs-with-pdf)<br>
 2. ⬆️ Pushed 1 commit(s) to [martinezpenya/PRG-CFGS-2425](https://github.com/martinezpenya/PRG-CFGS-2425)<br>
-3. ⬆️ Pushed 4 commit(s) to [martinezpenya/PRG-CFGS-2425](https://github.com/martinezpenya/PRG-CFGS-2425)<br>
-4. ⭐ Starred [orzih/mkdocs-with-pdf](https://github.com/orzih/mkdocs-with-pdf)<br>
-5. 💬 Commented on [#33](https://github.com/martinezpenya/ED-CFGS-2122/pull/33#issuecomment-2448527971) in [martinezpenya/ED-CFGS-2122](https://github.com/martinezpenya/ED-CFGS-2122)<br>
+3. ⬆️ Pushed 1 commit(s) to [martinezpenya/PRG-CFGS-2425](https://github.com/martinezpenya/PRG-CFGS-2425)<br>
+4. ⬆️ Pushed 4 commit(s) to [martinezpenya/PRG-CFGS-2425](https://github.com/martinezpenya/PRG-CFGS-2425)<br>
+5. ⭐ Starred [orzih/mkdocs-with-pdf](https://github.com/orzih/mkdocs-with-pdf)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, November 13th, 2024, 2:10:52 AM
+Last Updated: Wednesday, November 13th, 2024, 2:59:02 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 :zap: GitHub Stats | Estadísticas de GitHub | Estadístiques de GitHub

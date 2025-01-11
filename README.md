@@ -60,14 +60,14 @@ Here are some ideas to get you started:
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 4 commit(s) to [martinezpenya/PRG-CFGS-2425](https://github.com/martinezpenya/PRG-CFGS-2425)<br>
-2. 💬 Commented on [#162](https://github.com/orzih/mkdocs-with-pdf/issues/162#issuecomment-2558561631) in [orzih/mkdocs-with-pdf](https://github.com/orzih/mkdocs-with-pdf)<br>
-3. ⬆️ Pushed 2 commit(s) to [martinezpenya/MIA-IABD-2425](https://github.com/martinezpenya/MIA-IABD-2425)<br>
-4. ❌ Closed PR [#4](https://github.com/martinezpenya/MIA-IABD-2425/pull/4) in [martinezpenya/MIA-IABD-2425](https://github.com/martinezpenya/MIA-IABD-2425)<br>
-5. ❌ Closed PR [#3](https://github.com/martinezpenya/MIA-IABD-2425/pull/3) in [martinezpenya/MIA-IABD-2425](https://github.com/martinezpenya/MIA-IABD-2425)<br>
+1. ⬆️ Pushed 1 commit(s) to [martinezpenya/PRG-CFGS-2425](https://github.com/martinezpenya/PRG-CFGS-2425)<br>
+2. ⬆️ Pushed 4 commit(s) to [martinezpenya/PRG-CFGS-2425](https://github.com/martinezpenya/PRG-CFGS-2425)<br>
+3. 💬 Commented on [#162](https://github.com/orzih/mkdocs-with-pdf/issues/162#issuecomment-2558561631) in [orzih/mkdocs-with-pdf](https://github.com/orzih/mkdocs-with-pdf)<br>
+4. ⬆️ Pushed 2 commit(s) to [martinezpenya/MIA-IABD-2425](https://github.com/martinezpenya/MIA-IABD-2425)<br>
+5. ❌ Closed PR [#4](https://github.com/martinezpenya/MIA-IABD-2425/pull/4) in [martinezpenya/MIA-IABD-2425](https://github.com/martinezpenya/MIA-IABD-2425)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, January 11th, 2025, 5:07:31 PM
+Last Updated: Saturday, January 11th, 2025, 5:32:30 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 :zap: GitHub Stats | Estadísticas de GitHub | Estadístiques de GitHub

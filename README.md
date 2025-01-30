@@ -67,7 +67,7 @@ Here are some ideas to get you started:
 5. ✔️ Closed issue [#162](https://github.com/orzih/mkdocs-with-pdf/issues/162) in [orzih/mkdocs-with-pdf](https://github.com/orzih/mkdocs-with-pdf)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, January 30th, 2025, 10:08:44 PM
+Last Updated: Thursday, January 30th, 2025, 10:34:45 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 :zap: GitHub Stats | Estadísticas de GitHub | Estadístiques de GitHub

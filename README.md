@@ -61,12 +61,9 @@ Here are some ideas to get you started:
 <!--END_SECTION:activity-->
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [martinezpenya/MIA-IABD-2425](https://github.com/martinezpenya/MIA-IABD-2425)<br>
-2. ⬆️ Pushed 1 commit(s) to [martinezpenya/PRG-CFGS-2425](https://github.com/martinezpenya/PRG-CFGS-2425)<br>
-3. ⬆️ Pushed 1 commit(s) to [martinezpenya/PRG-CFGS-2425](https://github.com/martinezpenya/PRG-CFGS-2425)<br>
-4. ⬆️ Pushed 1 commit(s) to [martinezpenya/PRG-CFGS-2425](https://github.com/martinezpenya/PRG-CFGS-2425)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, April 22nd, 2025, 10:11:28 AM
+Last Updated: Tuesday, April 22nd, 2025, 10:41:12 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 :zap: GitHub Stats | Estadísticas de GitHub | Estadístiques de GitHub

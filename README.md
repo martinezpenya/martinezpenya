@@ -31,11 +31,11 @@ Here are some ideas to get you started:
 ### 📺 Latest YouTube Videos | Últimos videos de YouTube | Últims videos de YouTube
 
 <!-- YOUTUBE:START -->
+- [Confia amb mi - Juniors MD Carlet &lpar;60 Aniversari&rpar;](https://www.youtube.com/watch?v=W9QuPz-Zts0)
 - [Mans menudes, grans accions - Banda de l&#39;A.M. l&#39;Artística de Carlet i el Cor CEIP Sant Bernat](https://www.youtube.com/watch?v=nyrz6pHmCFw)
 - [Concert de Primavera 2025 - Banda Simfònica de l&#39;Agrupació Musical l&#39;Artística de Carlet](https://www.youtube.com/watch?v=2fB717yqHQQ)
 - [Concert en honor a Santa Cecilia 2024 - Banda Juvenil de l&#39;Agrupació Musical l&#39;Artística de Carlet](https://www.youtube.com/watch?v=6x6mbe38fFc)
 - [Concert en honor a Santa Cecilia 2024 - Banda Simfònica de l&#39;Agrupació Musical l&#39;Artística de Carlet](https://www.youtube.com/watch?v=n5FxEnEQ91M)
-- [44 Festival de Bandes de Carlet - Banda Simfònica de l&#39;Agrupació Musical l&#39;Artística de Carlet](https://www.youtube.com/watch?v=5CYW6IShrCI)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]

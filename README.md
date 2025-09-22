@@ -60,14 +60,14 @@ Here are some ideas to get you started:
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [martinezpenya/GestionCalificacionesAules](https://github.com/martinezpenya/GestionCalificacionesAules)<br>
-2. ✌️ Released [Versión 0.5](https://github.com/martinezpenya/GestionCalificacionesAules/releases/tag/0.5) in [martinezpenya/GestionCalificacionesAules](https://github.com/martinezpenya/GestionCalificacionesAules)<br>
-3. ⬆️ Pushed 1 commit(s) to [martinezpenya/GestionCalificacionesAules](https://github.com/martinezpenya/GestionCalificacionesAules)<br>
-4. ⬆️ Pushed 1 commit(s) to [martinezpenya/GestionCalificacionesAules](https://github.com/martinezpenya/GestionCalificacionesAules)<br>
-5. ⬆️ Pushed 1 commit(s) to [martinezpenya/ModelosIA](https://github.com/martinezpenya/ModelosIA)<br>
+1. ⬆️ Pushed 2 commit(s) to [martinezpenya/GestionCalificacionesAules](https://github.com/martinezpenya/GestionCalificacionesAules)<br>
+2. 🎉 Merged PR [#1](https://github.com/martinezpenya/GestionCalificacionesAules/pull/1) in [martinezpenya/GestionCalificacionesAules](https://github.com/martinezpenya/GestionCalificacionesAules)<br>
+3. 💬 Commented on [#1](https://github.com/martinezpenya/GestionCalificacionesAules/pull/1#issuecomment-3319239174) in [martinezpenya/GestionCalificacionesAules](https://github.com/martinezpenya/GestionCalificacionesAules)<br>
+4. ❌ Closed PR [#1](https://github.com/martinezpenya/GestionCalificacionesAules/pull/1) in [martinezpenya/GestionCalificacionesAules](https://github.com/martinezpenya/GestionCalificacionesAules)<br>
+5. ⬆️ Pushed 1 commit(s) to [martinezpenya/GestionCalificacionesAules](https://github.com/martinezpenya/GestionCalificacionesAules)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, September 22nd, 2025, 11:09:48 PM
+Last Updated: Monday, September 22nd, 2025, 11:32:36 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 :zap: GitHub Stats | Estadísticas de GitHub | Estadístiques de GitHub

@@ -60,14 +60,14 @@ Here are some ideas to get you started:
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 2 commit(s) to [martinezpenya/GestionCalificacionesAules](https://github.com/martinezpenya/GestionCalificacionesAules)<br>
-2. 🎉 Merged PR [#2](https://github.com/martinezpenya/GestionCalificacionesAules/pull/2) in [martinezpenya/GestionCalificacionesAules](https://github.com/martinezpenya/GestionCalificacionesAules)<br>
-3. ⬆️ Pushed 2 commit(s) to [martinezpenya/GestionCalificacionesAules](https://github.com/martinezpenya/GestionCalificacionesAules)<br>
-4. 🎉 Merged PR [#1](https://github.com/martinezpenya/GestionCalificacionesAules/pull/1) in [martinezpenya/GestionCalificacionesAules](https://github.com/martinezpenya/GestionCalificacionesAules)<br>
-5. 💬 Commented on [#1](https://github.com/martinezpenya/GestionCalificacionesAules/pull/1#issuecomment-3319239174) in [martinezpenya/GestionCalificacionesAules](https://github.com/martinezpenya/GestionCalificacionesAules)<br>
+1. ⬆️ Pushed undefined commit(s) to [martinezpenya/GestionCalificacionesAules](https://github.com/martinezpenya/GestionCalificacionesAules)<br>
+2. ⬆️ Pushed undefined commit(s) to [martinezpenya/GestionCalificacionesAules](https://github.com/martinezpenya/GestionCalificacionesAules)<br>
+3. ⬆️ Pushed undefined commit(s) to [martinezpenya/GestionCalificacionesAules](https://github.com/martinezpenya/GestionCalificacionesAules)<br>
+4. 💬 Commented on [#3](https://github.com/martinezpenya/GestionCalificacionesAules/issues/3#issuecomment-3326976638) in [martinezpenya/GestionCalificacionesAules](https://github.com/martinezpenya/GestionCalificacionesAules)<br>
+5. ✔️ Closed issue [#3](https://github.com/martinezpenya/GestionCalificacionesAules/issues/3) in [martinezpenya/GestionCalificacionesAules](https://github.com/martinezpenya/GestionCalificacionesAules)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, September 25th, 2025, 4:13:11 PM
+Last Updated: Thursday, September 25th, 2025, 4:43:22 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 :zap: GitHub Stats | Estadísticas de GitHub | Estadístiques de GitHub

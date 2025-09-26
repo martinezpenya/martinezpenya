@@ -60,14 +60,14 @@ Here are some ideas to get you started:
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#5](https://github.com/martinezpenya/1DAMProgramacion/pull/5#issuecomment-3339344852) in [martinezpenya/1DAMProgramacion](https://github.com/martinezpenya/1DAMProgramacion)<br>
-2. ❌ Closed PR [#5](https://github.com/martinezpenya/1DAMProgramacion/pull/5) in [martinezpenya/1DAMProgramacion](https://github.com/martinezpenya/1DAMProgramacion)<br>
-3. ⬆️ Pushed 2 commit(s) to [martinezpenya/1DAMProgramacion](https://github.com/martinezpenya/1DAMProgramacion)<br>
-4. 🎉 Merged PR [#6](https://github.com/martinezpenya/1DAMProgramacion/pull/6) in [martinezpenya/1DAMProgramacion](https://github.com/martinezpenya/1DAMProgramacion)<br>
+1. 💬 Commented on [#2](https://github.com/martinezpenya/1DAMProgramacion/pull/2#issuecomment-3339559398) in [martinezpenya/1DAMProgramacion](https://github.com/martinezpenya/1DAMProgramacion)<br>
+2. ❌ Closed PR [#2](https://github.com/martinezpenya/1DAMProgramacion/pull/2) in [martinezpenya/1DAMProgramacion](https://github.com/martinezpenya/1DAMProgramacion)<br>
+3. 💬 Commented on [#3](https://github.com/martinezpenya/1DAMProgramacion/pull/3#issuecomment-3339551638) in [martinezpenya/1DAMProgramacion](https://github.com/martinezpenya/1DAMProgramacion)<br>
+4. ❌ Closed PR [#3](https://github.com/martinezpenya/1DAMProgramacion/pull/3) in [martinezpenya/1DAMProgramacion](https://github.com/martinezpenya/1DAMProgramacion)<br>
 5. ⬆️ Pushed 2 commit(s) to [martinezpenya/1DAMProgramacion](https://github.com/martinezpenya/1DAMProgramacion)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, September 26th, 2025, 10:35:13 PM
+Last Updated: Friday, September 26th, 2025, 11:09:41 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 :zap: GitHub Stats | Estadísticas de GitHub | Estadístiques de GitHub

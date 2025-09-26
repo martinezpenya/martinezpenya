@@ -60,14 +60,14 @@ Here are some ideas to get you started:
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [martinezpenya/GestionCalificacionesAules](https://github.com/martinezpenya/GestionCalificacionesAules)<br>
-2. ⬆️ Pushed 1 commit(s) to [martinezpenya/GestionCalificacionesAules](https://github.com/martinezpenya/GestionCalificacionesAules)<br>
-3. ⬆️ Pushed 1 commit(s) to [martinezpenya/GestionCalificacionesAules](https://github.com/martinezpenya/GestionCalificacionesAules)<br>
-4. ⬆️ Pushed 2 commit(s) to [martinezpenya/GestionCalificacionesAules](https://github.com/martinezpenya/GestionCalificacionesAules)<br>
-5. 🎉 Merged PR [#2](https://github.com/martinezpenya/GestionCalificacionesAules/pull/2) in [martinezpenya/GestionCalificacionesAules](https://github.com/martinezpenya/GestionCalificacionesAules)<br>
+1. ⬆️ Pushed 2 commit(s) to [martinezpenya/1DAMProgramacion](https://github.com/martinezpenya/1DAMProgramacion)<br>
+2. 🎉 Merged PR [#7](https://github.com/martinezpenya/1DAMProgramacion/pull/7) in [martinezpenya/1DAMProgramacion](https://github.com/martinezpenya/1DAMProgramacion)<br>
+3. 💬 Commented on [#8](https://github.com/martinezpenya/1DAMProgramacion/pull/8#issuecomment-3339279649) in [martinezpenya/1DAMProgramacion](https://github.com/martinezpenya/1DAMProgramacion)<br>
+4. ❌ Closed PR [#8](https://github.com/martinezpenya/1DAMProgramacion/pull/8) in [martinezpenya/1DAMProgramacion](https://github.com/martinezpenya/1DAMProgramacion)<br>
+5. 💬 Commented on [#9](https://github.com/martinezpenya/1DAMProgramacion/pull/9#issuecomment-3339275212) in [martinezpenya/1DAMProgramacion](https://github.com/martinezpenya/1DAMProgramacion)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, September 26th, 2025, 9:08:54 PM
+Last Updated: Friday, September 26th, 2025, 9:32:22 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 :zap: GitHub Stats | Estadísticas de GitHub | Estadístiques de GitHub

@@ -60,14 +60,14 @@ Here are some ideas to get you started:
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 2 commit(s) to [martinezpenya/1DAMProgramacion](https://github.com/martinezpenya/1DAMProgramacion)<br>
-2. 🎉 Merged PR [#7](https://github.com/martinezpenya/1DAMProgramacion/pull/7) in [martinezpenya/1DAMProgramacion](https://github.com/martinezpenya/1DAMProgramacion)<br>
-3. 💬 Commented on [#8](https://github.com/martinezpenya/1DAMProgramacion/pull/8#issuecomment-3339279649) in [martinezpenya/1DAMProgramacion](https://github.com/martinezpenya/1DAMProgramacion)<br>
-4. ❌ Closed PR [#8](https://github.com/martinezpenya/1DAMProgramacion/pull/8) in [martinezpenya/1DAMProgramacion](https://github.com/martinezpenya/1DAMProgramacion)<br>
-5. 💬 Commented on [#9](https://github.com/martinezpenya/1DAMProgramacion/pull/9#issuecomment-3339275212) in [martinezpenya/1DAMProgramacion](https://github.com/martinezpenya/1DAMProgramacion)<br>
+1. 💬 Commented on [#5](https://github.com/martinezpenya/1DAMProgramacion/pull/5#issuecomment-3339344852) in [martinezpenya/1DAMProgramacion](https://github.com/martinezpenya/1DAMProgramacion)<br>
+2. ❌ Closed PR [#5](https://github.com/martinezpenya/1DAMProgramacion/pull/5) in [martinezpenya/1DAMProgramacion](https://github.com/martinezpenya/1DAMProgramacion)<br>
+3. ⬆️ Pushed 2 commit(s) to [martinezpenya/1DAMProgramacion](https://github.com/martinezpenya/1DAMProgramacion)<br>
+4. 🎉 Merged PR [#6](https://github.com/martinezpenya/1DAMProgramacion/pull/6) in [martinezpenya/1DAMProgramacion](https://github.com/martinezpenya/1DAMProgramacion)<br>
+5. ⬆️ Pushed 2 commit(s) to [martinezpenya/1DAMProgramacion](https://github.com/martinezpenya/1DAMProgramacion)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, September 26th, 2025, 9:32:22 PM
+Last Updated: Friday, September 26th, 2025, 10:09:22 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 :zap: GitHub Stats | Estadísticas de GitHub | Estadístiques de GitHub

@@ -60,14 +60,14 @@ Here are some ideas to get you started:
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [martinezpenya/ModelosIA](https://github.com/martinezpenya/ModelosIA)<br>
-2. ⬆️ Pushed 1 commit(s) to [martinezpenya/ModelosIA](https://github.com/martinezpenya/ModelosIA)<br>
-3. ⬆️ Pushed 3 commit(s) to [martinezpenya/ModelosIA](https://github.com/martinezpenya/ModelosIA)<br>
-4. ⬆️ Pushed 6 commit(s) to [martinezpenya/1DAMProgramacion](https://github.com/martinezpenya/1DAMProgramacion)<br>
-5. 💬 Commented on [#2](https://github.com/martinezpenya/1DAMProgramacion/pull/2#issuecomment-3339559398) in [martinezpenya/1DAMProgramacion](https://github.com/martinezpenya/1DAMProgramacion)<br>
+1. 💬 Commented on [#1](https://github.com/martinezpenya/ModelosIA/pull/1#issuecomment-3353294450) in [martinezpenya/ModelosIA](https://github.com/martinezpenya/ModelosIA)<br>
+2. ❌ Closed PR [#1](https://github.com/martinezpenya/ModelosIA/pull/1) in [martinezpenya/ModelosIA](https://github.com/martinezpenya/ModelosIA)<br>
+3. ⬆️ Pushed 1 commit(s) to [martinezpenya/ModelosIA](https://github.com/martinezpenya/ModelosIA)<br>
+4. ⬆️ Pushed 1 commit(s) to [martinezpenya/ModelosIA](https://github.com/martinezpenya/ModelosIA)<br>
+5. ⬆️ Pushed 3 commit(s) to [martinezpenya/ModelosIA](https://github.com/martinezpenya/ModelosIA)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, September 30th, 2025, 11:09:28 PM
+Last Updated: Tuesday, September 30th, 2025, 11:32:28 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 :zap: GitHub Stats | Estadísticas de GitHub | Estadístiques de GitHub

@@ -60,14 +60,14 @@ Here are some ideas to get you started:
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [martinezpenya/1DAMProgramacion](https://github.com/martinezpenya/1DAMProgramacion)<br>
-2. 💬 Commented on [#10](https://github.com/martinezpenya/1DAMProgramacion/pull/10#issuecomment-3368959074) in [martinezpenya/1DAMProgramacion](https://github.com/martinezpenya/1DAMProgramacion)<br>
-3. ❌ Closed PR [#10](https://github.com/martinezpenya/1DAMProgramacion/pull/10) in [martinezpenya/1DAMProgramacion](https://github.com/martinezpenya/1DAMProgramacion)<br>
-4. 💬 Commented on [#11](https://github.com/martinezpenya/1DAMProgramacion/pull/11#issuecomment-3368958458) in [martinezpenya/1DAMProgramacion](https://github.com/martinezpenya/1DAMProgramacion)<br>
-5. ❌ Closed PR [#11](https://github.com/martinezpenya/1DAMProgramacion/pull/11) in [martinezpenya/1DAMProgramacion](https://github.com/martinezpenya/1DAMProgramacion)<br>
+1. ⬆️ Pushed 1 commit(s) to [martinezpenya/ModelosIA](https://github.com/martinezpenya/ModelosIA)<br>
+2. ⬆️ Pushed 1 commit(s) to [martinezpenya/1DAMProgramacion](https://github.com/martinezpenya/1DAMProgramacion)<br>
+3. 💬 Commented on [#10](https://github.com/martinezpenya/1DAMProgramacion/pull/10#issuecomment-3368959074) in [martinezpenya/1DAMProgramacion](https://github.com/martinezpenya/1DAMProgramacion)<br>
+4. ❌ Closed PR [#10](https://github.com/martinezpenya/1DAMProgramacion/pull/10) in [martinezpenya/1DAMProgramacion](https://github.com/martinezpenya/1DAMProgramacion)<br>
+5. 💬 Commented on [#11](https://github.com/martinezpenya/1DAMProgramacion/pull/11#issuecomment-3368958458) in [martinezpenya/1DAMProgramacion](https://github.com/martinezpenya/1DAMProgramacion)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, October 5th, 2025, 9:08:31 PM
+Last Updated: Sunday, October 5th, 2025, 9:32:29 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 :zap: GitHub Stats | Estadísticas de GitHub | Estadístiques de GitHub

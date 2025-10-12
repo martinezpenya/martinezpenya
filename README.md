@@ -63,14 +63,14 @@ Here are some ideas to get you started:
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#169](https://github.com/robocode-dev/tank-royale/issues/169#issuecomment-3393538739) in [robocode-dev/tank-royale](https://github.com/robocode-dev/tank-royale)<br>
-2. 💬 Commented on [#169](https://github.com/robocode-dev/tank-royale/issues/169#issuecomment-3393536702) in [robocode-dev/tank-royale](https://github.com/robocode-dev/tank-royale)<br>
-3. 💪 Opened PR [#170](https://github.com/robocode-dev/tank-royale/pull/170) in [robocode-dev/tank-royale](https://github.com/robocode-dev/tank-royale)<br>
-4. ⬆️ Pushed 8 commit(s) to [martinezpenya/tank-royale](https://github.com/martinezpenya/tank-royale)<br>
-5. ⬆️ Pushed 1 commit(s) to [martinezpenya/tank-royale](https://github.com/martinezpenya/tank-royale)<br>
+1. 💪 Opened PR [#171](https://github.com/robocode-dev/tank-royale/pull/171) in [robocode-dev/tank-royale](https://github.com/robocode-dev/tank-royale)<br>
+2. ⬆️ Pushed 12 commit(s) to [martinezpenya/tank-royale](https://github.com/martinezpenya/tank-royale)<br>
+3. ⬆️ Pushed 1 commit(s) to [martinezpenya/tank-royale](https://github.com/martinezpenya/tank-royale)<br>
+4. 💬 Commented on [#169](https://github.com/robocode-dev/tank-royale/issues/169#issuecomment-3393538739) in [robocode-dev/tank-royale](https://github.com/robocode-dev/tank-royale)<br>
+5. 💬 Commented on [#169](https://github.com/robocode-dev/tank-royale/issues/169#issuecomment-3393536702) in [robocode-dev/tank-royale](https://github.com/robocode-dev/tank-royale)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, October 12th, 2025, 9:09:39 AM
+Last Updated: Sunday, October 12th, 2025, 9:32:10 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 :zap: GitHub Stats | Estadísticas de GitHub | Estadístiques de GitHub

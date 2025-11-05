@@ -63,14 +63,14 @@ Here are some ideas to get you started:
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [martinezpenya/martinezpenya](https://github.com/martinezpenya/martinezpenya)<br>
-2. ⬆️ Pushed undefined commit(s) to [martinezpenya/GestionCalificacionesAules](https://github.com/martinezpenya/GestionCalificacionesAules)<br>
-3. ⬆️ Pushed undefined commit(s) to [martinezpenya/GestionCalificacionesAules](https://github.com/martinezpenya/GestionCalificacionesAules)<br>
-4. ⬆️ Pushed undefined commit(s) to [martinezpenya/GestionCalificacionesAules](https://github.com/martinezpenya/GestionCalificacionesAules)<br>
-5. ❗️ Opened issue [#20](https://github.com/Yuvix25/ReHUD/issues/20) in [Yuvix25/ReHUD](https://github.com/Yuvix25/ReHUD)<br>
+1. 💬 Commented on [#18](https://github.com/martinezpenya/1DAMProgramacion/pull/18#issuecomment-3492037967) in [martinezpenya/1DAMProgramacion](https://github.com/martinezpenya/1DAMProgramacion)<br>
+2. ❌ Closed PR [#18](undefined) in [martinezpenya/1DAMProgramacion](https://github.com/martinezpenya/1DAMProgramacion)<br>
+3. 💬 Commented on [#16](https://github.com/martinezpenya/1DAMProgramacion/pull/16#issuecomment-3492030785) in [martinezpenya/1DAMProgramacion](https://github.com/martinezpenya/1DAMProgramacion)<br>
+4. ❌ Closed PR [#16](undefined) in [martinezpenya/1DAMProgramacion](https://github.com/martinezpenya/1DAMProgramacion)<br>
+5. ⬆️ Pushed undefined commit(s) to [martinezpenya/1DAMProgramacion](https://github.com/martinezpenya/1DAMProgramacion)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, November 5th, 2025, 3:38:31 PM
+Last Updated: Wednesday, November 5th, 2025, 4:14:40 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 :zap: GitHub Stats | Estadísticas de GitHub | Estadístiques de GitHub

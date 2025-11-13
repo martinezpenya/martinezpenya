@@ -67,10 +67,10 @@ Here are some ideas to get you started:
 2. ⬆️ Pushed undefined commit(s) to [martinezpenya/ModelosIA](https://github.com/martinezpenya/ModelosIA)<br>
 3. ⬆️ Pushed undefined commit(s) to [martinezpenya/ModelosIA](https://github.com/martinezpenya/ModelosIA)<br>
 4. ⬆️ Pushed undefined commit(s) to [martinezpenya/ModelosIA](https://github.com/martinezpenya/ModelosIA)<br>
-5. ⬆️ Pushed undefined commit(s) to [martinezpenya/1DAMProgramacion](https://github.com/martinezpenya/1DAMProgramacion)<br>
+5. ⬆️ Pushed undefined commit(s) to [martinezpenya/ModelosIA](https://github.com/martinezpenya/ModelosIA)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, November 13th, 2025, 11:10:22 AM
+Last Updated: Thursday, November 13th, 2025, 11:35:19 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 :zap: GitHub Stats | Estadísticas de GitHub | Estadístiques de GitHub

@@ -34,11 +34,11 @@ Here are some ideas to get you started:
 ### 📺 Latest YouTube Videos | Últimos videos de YouTube | Últims videos de YouTube
 
 <!-- YOUTUBE:START -->
+- [XXII Campanya de concerts d&#39;Intercanvis musicals - Rondalla Matamón](https://www.youtube.com/watch?v=fqte5UtguLY)
 - [Campament Bronchales 2025 &lpar;La Garganta&rpar; a vista de dron](https://www.youtube.com/watch?v=39HWf0y9JnQ)
 - [Oració. Bronchales 2025](https://www.youtube.com/watch?v=yzrCLZ82DxY)
 - [El show de Legna. Vetllada. Bronchales 2025.](https://www.youtube.com/watch?v=MdS5XA_PYkk)
 - [Timelapse, arribada al campament després del vic-vac. Bronchales 2025.](https://www.youtube.com/watch?v=49gq0F-x91w)
-- [Confia amb mi - Juniors MD Carlet &lpar;60 Aniversari&rpar;](https://www.youtube.com/watch?v=W9QuPz-Zts0)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]

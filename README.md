@@ -34,11 +34,11 @@ Here are some ideas to get you started:
 ### 📺 Latest YouTube Videos | Últimos videos de YouTube | Últims videos de YouTube
 
 <!-- YOUTUBE:START -->
+- [Concert de Santa Cecilia 2025 - Banda Simfònica de l&#39;Agrupació Musical l&#39;Artística de Carlet](https://www.youtube.com/watch?v=gu_W98cd56I)
 - [45 Festival de Bandes de Carlet - Banda Simfònica de l&#39;Agrupació Musical l&#39;Artística de Carlet](https://www.youtube.com/watch?v=EEzqc2J7ZnM)
 - [Concert L&#39;Artística de Carlet i DJ Pere Vicalet](https://www.youtube.com/watch?v=JiSunZcRWo4)
 - [XXII Festival de Bandes de Música Juvenils - Banda Juvenil A.M. L’ARTÍSTICA DE CARLET](https://www.youtube.com/watch?v=Gj6nr8psNA4)
 - [Concert Excel·lent 2025 - Banda Simfònica de l&#39;Agrupació Musical l&#39;Artística de Carlet](https://www.youtube.com/watch?v=IFSH-rcJG7I)
-- [XXII Campanya de concerts d&#39;Intercanvis musicals - Rondalla Matamón](https://www.youtube.com/watch?v=fqte5UtguLY)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]

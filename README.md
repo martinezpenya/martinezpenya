@@ -47,11 +47,11 @@ Here are some ideas to get you started:
 
 ### 📕 Latest Blog Posts | Últimas entradas en mi blog | Últimes entrades al meu blog
 <!-- BLOG-POST-LIST:START -->
+- [Bon Nadal i millor 2026](https://web.martinezpenya.es/2025/12/bon-nadal-i-millor-2026/)
 - [Bon Nadal i millor 2025](https://web.martinezpenya.es/2024/12/bon-nadal-i-millor-2025/)
 - [Bon Nadal i millor 2024](https://web.martinezpenya.es/2023/12/bon-nadal-i-millor-2024/)
 - [Bon Nadal i millor 2023](https://web.martinezpenya.es/2022/12/bon-nadal-i-millor-2023/)
 - [Bon Nadal i millor 2022](https://web.martinezpenya.es/2021/12/bon-nadal-i-millor-2022/)
-- [Bon Nadal i millor 2021](https://web.martinezpenya.es/2020/12/bon-nadal-i-millor-2021/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...][blog]

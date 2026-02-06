@@ -63,14 +63,14 @@ Here are some ideas to get you started:
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [martinezpenya/1DAMProgramacion](https://github.com/martinezpenya/1DAMProgramacion)<br>
-2. ⭐ Starred [martinezpenya/1DAMProgramacion](https://github.com/martinezpenya/1DAMProgramacion)<br>
+1. ⬆️ Pushed undefined commit(s) to [martinezpenya/ModelosIA](https://github.com/martinezpenya/ModelosIA)<br>
+2. ⬆️ Pushed undefined commit(s) to [martinezpenya/ModelosIA](https://github.com/martinezpenya/ModelosIA)<br>
 3. ⬆️ Pushed undefined commit(s) to [martinezpenya/1DAMProgramacion](https://github.com/martinezpenya/1DAMProgramacion)<br>
-4. ⭐ Starred [sealhud/sealhud.github.io](https://github.com/sealhud/sealhud.github.io)<br>
-5. ⭐ Starred [sealhud/sealhud_source](https://github.com/sealhud/sealhud_source)<br>
+4. ⬆️ Pushed undefined commit(s) to [martinezpenya/1DAMProgramacion](https://github.com/martinezpenya/1DAMProgramacion)<br>
+5. ⭐ Starred [martinezpenya/1DAMProgramacion](https://github.com/martinezpenya/1DAMProgramacion)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, February 6th, 2026, 11:07:00 AM
+Last Updated: Friday, February 6th, 2026, 11:51:45 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 :zap: GitHub Stats | Estadísticas de GitHub | Estadístiques de GitHub

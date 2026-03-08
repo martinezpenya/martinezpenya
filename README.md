@@ -64,13 +64,13 @@ Here are some ideas to get you started:
 <!--END_SECTION:activity-->
 <!--RECENT_ACTIVITY:start-->
 1. ⭐ Starred [sergarb1/pixelado_caras_automatico](https://github.com/sergarb1/pixelado_caras_automatico)<br>
-2. ⭐ Starred [Antolin1/de-cero-a-chatgpt](https://github.com/Antolin1/de-cero-a-chatgpt)<br>
-3. ⬆️ Pushed undefined commit(s) to [IES-Eduardo-Primo-Marques/ia-rx](https://github.com/IES-Eduardo-Primo-Marques/ia-rx)<br>
-4. ⭐ Starred [IES-Eduardo-Primo-Marques/ia-rx](https://github.com/IES-Eduardo-Primo-Marques/ia-rx)<br>
+2. ⬆️ Pushed undefined commit(s) to [IES-Eduardo-Primo-Marques/ia-rx](https://github.com/IES-Eduardo-Primo-Marques/ia-rx)<br>
+3. ⭐ Starred [IES-Eduardo-Primo-Marques/ia-rx](https://github.com/IES-Eduardo-Primo-Marques/ia-rx)<br>
+4. ⬆️ Pushed undefined commit(s) to [martinezpenya/1DAMProgramacion](https://github.com/martinezpenya/1DAMProgramacion)<br>
 5. ⬆️ Pushed undefined commit(s) to [martinezpenya/1DAMProgramacion](https://github.com/martinezpenya/1DAMProgramacion)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, March 8th, 2026, 6:54:51 PM
+Last Updated: Sunday, March 8th, 2026, 7:16:45 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 :zap: GitHub Stats | Estadísticas de GitHub | Estadístiques de GitHub

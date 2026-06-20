@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 ### 📺 Latest YouTube Videos | Últimos videos de YouTube | Últims videos de YouTube
 
 <!-- YOUTUBE:START -->
-- [Concert de Primavera 2026 - Banda Simfònica de l&#39;Agrupació Musical l&#39;Artística de Carlet](https://www.youtube.com/watch?v=9owF2MgZ1Rg)
+- [Concert de Primavera 2026 - Banda Simfònica de l&#39;Agrupació Musical l&#39;Artística de Carlet &lpar;Càmera&rpar;](https://www.youtube.com/watch?v=9owF2MgZ1Rg)
 - [Acampada de la Banda Juvenil de l&#39;A.M. L&#39;Artística de Carlet &lpar;Ador 25-26&rpar;](https://www.youtube.com/watch?v=kWDTz28MEII)
 - [Concert de Santa Cecilia 2025 - Banda Simfònica de l&#39;Agrupació Musical l&#39;Artística de Carlet](https://www.youtube.com/watch?v=gu_W98cd56I)
 - [45 Festival de Bandes de Carlet - Banda Simfònica de l&#39;Agrupació Musical l&#39;Artística de Carlet](https://www.youtube.com/watch?v=EEzqc2J7ZnM)

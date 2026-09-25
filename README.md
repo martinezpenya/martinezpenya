@@ -64,13 +64,13 @@ Here are some ideas to get you started:
 <!--END_SECTION:activity-->
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed undefined commit(s) to [martinezpenya/MyHAConfiguration](https://github.com/martinezpenya/MyHAConfiguration)<br>
-2. ⬆️ Pushed undefined commit(s) to [IES-Eduardo-Primo-Marques/PCCF](https://github.com/IES-Eduardo-Primo-Marques/PCCF)<br>
-3. ⬆️ Pushed undefined commit(s) to [IES-Eduardo-Primo-Marques/PCCF](https://github.com/IES-Eduardo-Primo-Marques/PCCF)<br>
+2. ⬆️ Pushed undefined commit(s) to [martinezpenya/MyHAConfiguration](https://github.com/martinezpenya/MyHAConfiguration)<br>
+3. ⬆️ Pushed undefined commit(s) to [martinezpenya/MyHAConfiguration](https://github.com/martinezpenya/MyHAConfiguration)<br>
 4. ⬆️ Pushed undefined commit(s) to [IES-Eduardo-Primo-Marques/PCCF](https://github.com/IES-Eduardo-Primo-Marques/PCCF)<br>
 5. ⬆️ Pushed undefined commit(s) to [IES-Eduardo-Primo-Marques/PCCF](https://github.com/IES-Eduardo-Primo-Marques/PCCF)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, September 25th, 2026, 8:19:44 AM
+Last Updated: Friday, September 25th, 2026, 1:58:55 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 :zap: GitHub Stats | Estadísticas de GitHub | Estadístiques de GitHub

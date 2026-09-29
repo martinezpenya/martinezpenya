@@ -63,14 +63,14 @@ Here are some ideas to get you started:
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [martinezpenya/giracolchon-web](https://github.com/martinezpenya/giracolchon-web)<br>
-2. ⬆️ Pushed undefined commit(s) to [martinezpenya/giracolchon-web](https://github.com/martinezpenya/giracolchon-web)<br>
-3. ⬆️ Pushed undefined commit(s) to [martinezpenya/giracolchon-web](https://github.com/martinezpenya/giracolchon-web)<br>
-4. ✌️ Released [GiraColchón 1.0.2](https://github.com/martinezpenya/giracolchon-web/releases/tag/v1.0.2) in [martinezpenya/giracolchon-web](https://github.com/martinezpenya/giracolchon-web)<br>
+1. ⬆️ Pushed undefined commit(s) to [IES-Eduardo-Primo-Marques/PCCF](https://github.com/IES-Eduardo-Primo-Marques/PCCF)<br>
+2. ⬆️ Pushed undefined commit(s) to [martinezpenya/MyHAConfiguration](https://github.com/martinezpenya/MyHAConfiguration)<br>
+3. ⬆️ Pushed undefined commit(s) to [IES-Eduardo-Primo-Marques/PCCF](https://github.com/IES-Eduardo-Primo-Marques/PCCF)<br>
+4. ⬆️ Pushed undefined commit(s) to [martinezpenya/giracolchon-web](https://github.com/martinezpenya/giracolchon-web)<br>
 5. ⬆️ Pushed undefined commit(s) to [martinezpenya/giracolchon-web](https://github.com/martinezpenya/giracolchon-web)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, September 29th, 2026, 8:46:56 AM
+Last Updated: Tuesday, September 29th, 2026, 3:13:21 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 :zap: GitHub Stats | Estadísticas de GitHub | Estadístiques de GitHub

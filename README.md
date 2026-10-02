@@ -63,14 +63,14 @@ Here are some ideas to get you started:
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [martinezpenya/giracolchon-web](https://github.com/martinezpenya/giracolchon-web)<br>
-2. ⬆️ Pushed undefined commit(s) to [martinezpenya/1DAMProgramacion](https://github.com/martinezpenya/1DAMProgramacion)<br>
-3. ⬆️ Pushed undefined commit(s) to [martinezpenya/1DAMProgramacion](https://github.com/martinezpenya/1DAMProgramacion)<br>
-4. ⬆️ Pushed undefined commit(s) to [IES-Eduardo-Primo-Marques/PCCF](https://github.com/IES-Eduardo-Primo-Marques/PCCF)<br>
-5. ⬆️ Pushed undefined commit(s) to [IES-Eduardo-Primo-Marques/PCCF](https://github.com/IES-Eduardo-Primo-Marques/PCCF)<br>
+1. 💬 Commented on [#24](https://github.com/martinezpenya/1DAMProgramacion/pull/24#issuecomment-5955259417) in [martinezpenya/1DAMProgramacion](https://github.com/martinezpenya/1DAMProgramacion)<br>
+2. ❌ Closed PR [#24](undefined) in [martinezpenya/1DAMProgramacion](https://github.com/martinezpenya/1DAMProgramacion)<br>
+3. ❌ Closed PR [#23](undefined) in [martinezpenya/1DAMProgramacion](https://github.com/martinezpenya/1DAMProgramacion)<br>
+4. 💬 Commented on [#23](https://github.com/martinezpenya/1DAMProgramacion/pull/23#issuecomment-5955254433) in [martinezpenya/1DAMProgramacion](https://github.com/martinezpenya/1DAMProgramacion)<br>
+5. ⬆️ Pushed undefined commit(s) to [martinezpenya/giracolchon-web](https://github.com/martinezpenya/giracolchon-web)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, October 2nd, 2026, 8:43:23 AM
+Last Updated: Friday, October 2nd, 2026, 3:10:45 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 :zap: GitHub Stats | Estadísticas de GitHub | Estadístiques de GitHub

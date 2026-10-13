@@ -63,14 +63,14 @@ Here are some ideas to get you started:
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [IES-Eduardo-Primo-Marques/PCCF](https://github.com/IES-Eduardo-Primo-Marques/PCCF)<br>
-2. ⬆️ Pushed undefined commit(s) to [IES-Eduardo-Primo-Marques/PCCF](https://github.com/IES-Eduardo-Primo-Marques/PCCF)<br>
-3. ⬆️ Pushed undefined commit(s) to [IES-Eduardo-Primo-Marques/PCCF](https://github.com/IES-Eduardo-Primo-Marques/PCCF)<br>
-4. ⬆️ Pushed undefined commit(s) to [IES-Eduardo-Primo-Marques/PCCF](https://github.com/IES-Eduardo-Primo-Marques/PCCF)<br>
-5. ⬆️ Pushed undefined commit(s) to [IES-Eduardo-Primo-Marques/PCCF](https://github.com/IES-Eduardo-Primo-Marques/PCCF)<br>
+1. ❌ Closed PR [#30](undefined) in [martinezpenya/1DAMProgramacion](https://github.com/martinezpenya/1DAMProgramacion)<br>
+2. ❌ Closed PR [#31](undefined) in [martinezpenya/1DAMProgramacion](https://github.com/martinezpenya/1DAMProgramacion)<br>
+3. ❌ Closed PR [#32](undefined) in [martinezpenya/1DAMProgramacion](https://github.com/martinezpenya/1DAMProgramacion)<br>
+4. ❌ Closed PR [#34](undefined) in [martinezpenya/1DAMProgramacion](https://github.com/martinezpenya/1DAMProgramacion)<br>
+5. ⬆️ Pushed undefined commit(s) to [martinezpenya/ModelosIA](https://github.com/martinezpenya/ModelosIA)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, October 13th, 2026, 9:36:02 AM
+Last Updated: Tuesday, October 13th, 2026, 5:14:24 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 :zap: GitHub Stats | Estadísticas de GitHub | Estadístiques de GitHub

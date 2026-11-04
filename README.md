@@ -63,14 +63,14 @@ Here are some ideas to get you started:
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [martinezpenya/1DAMInteractivo](https://github.com/martinezpenya/1DAMInteractivo)<br>
-2. ⬆️ Pushed undefined commit(s) to [martinezpenya/1DAMInteractivo](https://github.com/martinezpenya/1DAMInteractivo)<br>
-3. ⬆️ Pushed undefined commit(s) to [martinezpenya/1DAMProgramacion](https://github.com/martinezpenya/1DAMProgramacion)<br>
-4. ⬆️ Pushed undefined commit(s) to [martinezpenya/1DAMProgramacion](https://github.com/martinezpenya/1DAMProgramacion)<br>
+1. ⬆️ Pushed undefined commit(s) to [martinezpenya/ModelosIA](https://github.com/martinezpenya/ModelosIA)<br>
+2. ⬆️ Pushed undefined commit(s) to [martinezpenya/ModelosIA](https://github.com/martinezpenya/ModelosIA)<br>
+3. ⬆️ Pushed undefined commit(s) to [martinezpenya/1DAMInteractivo](https://github.com/martinezpenya/1DAMInteractivo)<br>
+4. ⬆️ Pushed undefined commit(s) to [martinezpenya/1DAMInteractivo](https://github.com/martinezpenya/1DAMInteractivo)<br>
 5. ⬆️ Pushed undefined commit(s) to [martinezpenya/1DAMProgramacion](https://github.com/martinezpenya/1DAMProgramacion)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, November 4th, 2026, 12:15:21 AM
+Last Updated: Wednesday, November 4th, 2026, 6:46:01 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 :zap: GitHub Stats | Estadísticas de GitHub | Estadístiques de GitHub
